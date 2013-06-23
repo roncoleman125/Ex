@@ -2,7 +2,7 @@ import java.util.TimeZone
 
 /**
  * This class solves ex 3.9 in Scala for the Impatient by Cay S. Hortsmann.
- * @author Ron Coleman, Ph.D.
+ * @author Ron Coleman, Ph.D. 
  */
 object Ex39 {
 
